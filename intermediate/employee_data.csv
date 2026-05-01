@@ -1,0 +1,31 @@
+Employee ID,Full Name,Department,Hire Date,Salary,Performance Score,Manager,Employment Type,City
+E001,James Carter,Sales,2018-03-12,52000,4.2,Sarah Mitchell,Full-Time,New York
+E002,Linda Thompson,Marketing,2019-07-01,58000,3.8,Robert Evans,Full-Time,Chicago
+E003,Michael Brown,Engineering,2017-11-20,85000,4.7,Laura Chen,Full-Time,San Francisco
+E004,Patricia Garcia,HR,2020-01-15,47000,3.5,James Carter,Full-Time,New York
+E005,Robert Martinez,Sales,2021-06-10,49000,4.0,Sarah Mitchell,Full-Time,Chicago
+E006,Barbara Wilson,Engineering,2016-09-05,92000,4.9,Laura Chen,Full-Time,San Francisco
+E007,William Anderson,Marketing,2022-02-28,54000,3.2,Robert Evans,Part-Time,New York
+E008,Elizabeth Taylor,Finance,2019-04-17,63000,4.1,David Kim,Full-Time,Chicago
+E009,David Thomas,Engineering,2020-08-30,78000,4.5,Laura Chen,Full-Time,Austin
+E010,Susan Jackson,Sales,2018-12-01,51000,3.9,Sarah Mitchell,Full-Time,New York
+E011,Charles White,HR,2023-01-09,44000,3.3,James Carter,Full-Time,Chicago
+E012,Jessica Harris,Finance,2017-05-22,71000,4.6,David Kim,Full-Time,San Francisco
+E013,Daniel Clark,Marketing,2021-10-14,56000,3.7,Robert Evans,Full-Time,Austin
+E014,Karen Lewis,Engineering,2015-03-30,98000,4.8,Laura Chen,Full-Time,San Francisco
+E015,Paul Robinson,Sales,2022-07-18,46000,3.1,Sarah Mitchell,Part-Time,New York
+E016,Nancy Walker,Finance,2019-11-25,68000,4.3,David Kim,Full-Time,Chicago
+E017,Mark Hall,HR,2020-06-03,45000,3.6,James Carter,Full-Time,Austin
+E018,Betty Allen,Engineering,2018-08-14,81000,4.4,Laura Chen,Full-Time,New York
+E019,Donald Young,Marketing,2023-04-01,52000,3.0,Robert Evans,Contract,Chicago
+E020,Helen Hernandez,Sales,2016-02-19,55000,4.2,Sarah Mitchell,Full-Time,San Francisco
+E021,George King,Finance,2021-09-07,61000,3.9,David Kim,Full-Time,Austin
+E022,Sandra Wright,Engineering,2017-07-11,89000,4.6,Laura Chen,Full-Time,Chicago
+E023,Frank Lopez,Marketing,2022-12-05,50000,3.4,Robert Evans,Full-Time,New York
+E024,Dorothy Hill,HR,2019-03-20,48000,4.0,James Carter,Full-Time,San Francisco
+E025,Ronald Scott,Sales,2020-10-27,53000,4.1,Sarah Mitchell,Full-Time,Austin
+E026,Sharon Green,Finance,2018-01-08,74000,4.5,David Kim,Full-Time,New York
+E027,Kevin Adams,Engineering,2021-04-22,76000,4.3,Laura Chen,Full-Time,Chicago
+E028,Donna Baker,Marketing,2023-08-15,53000,3.6,Robert Evans,Full-Time,San Francisco
+E029,Brian Gonzalez,Sales,2017-06-30,57000,4.4,Sarah Mitchell,Full-Time,New York
+E030,Michelle Nelson,HR,2022-03-11,46000,3.8,James Carter,Part-Time,Austin
